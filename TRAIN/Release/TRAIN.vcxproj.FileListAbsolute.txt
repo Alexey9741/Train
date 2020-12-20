@@ -1,0 +1,11 @@
+C:\Users\aleks\Desktop\С++\TRAIN\TRAIN\Release\TRAIN.TRAIN_Form.resources
+C:\Users\aleks\Desktop\С++\TRAIN\TRAIN\Release\TRAIN.vcxproj.GenerateResource.cache
+C:\Users\aleks\Desktop\С++\ФИИТ\TRAIN\TRAIN\Release\TRAIN.vcxprojAssemblyReference.cache
+C:\Users\aleks\Desktop\С++\ФИИТ\TRAIN\TRAIN\Release\TRAIN.TRAIN_Form.resources
+C:\Users\aleks\Desktop\С++\ФИИТ\TRAIN\TRAIN\Release\TRAIN.vcxproj.GenerateResource.cache
+C:\Users\79800\Desktop\С++\ФИИТ\TRAIN\TRAIN\Release\TRAIN.vcxprojAssemblyReference.cache
+C:\Users\79800\Desktop\С++\ФИИТ\TRAIN\TRAIN\Release\TRAIN.TRAIN_Form.resources
+C:\Users\79800\Desktop\С++\ФИИТ\TRAIN\TRAIN\Release\TRAIN.vcxproj.GenerateResource.cache
+D:\Programming\ФИИТ\TRAIN\TRAIN\Release\TRAIN.vcxprojAssemblyReference.cache
+D:\Programming\ФИИТ\TRAIN\TRAIN\Release\TRAIN.TRAIN_Form.resources
+D:\Programming\ФИИТ\TRAIN\TRAIN\Release\TRAIN.vcxproj.GenerateResource.cache

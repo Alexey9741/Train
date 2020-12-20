@@ -1,0 +1,6 @@
+C:\Users\aleks\Desktop\С++\TRAIN\TRAIN\Debug\TRAIN.vcxprojAssemblyReference.cache
+C:\Users\aleks\Desktop\С++\TRAIN\TRAIN\Debug\TRAIN.TRAIN_Form.resources
+C:\Users\aleks\Desktop\С++\TRAIN\TRAIN\Debug\TRAIN.vcxproj.GenerateResource.cache
+C:\Users\79800\Desktop\С++\ФИИТ\TRAIN\TRAIN\Debug\TRAIN.vcxprojAssemblyReference.cache
+C:\Users\79800\Desktop\С++\ФИИТ\TRAIN\TRAIN\Debug\TRAIN.TRAIN_Form.resources
+C:\Users\79800\Desktop\С++\ФИИТ\TRAIN\TRAIN\Debug\TRAIN.vcxproj.GenerateResource.cache

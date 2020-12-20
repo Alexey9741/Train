@@ -1,0 +1,48 @@
+﻿  Train.cpp
+  TRAIN_Form.cpp
+D:\Programming\ФИИТ\TRAIN\TRAIN\TRAIN_Form.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(224,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(238,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(238,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(239,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(239,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(240,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(240,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(241,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(241,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(263,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(264,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(268,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(269,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(273,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(274,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(278,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(279,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(283,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(284,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(288,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(289,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(293,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(294,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(298,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(299,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(307,71): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(307,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(308,71): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(308,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(309,71): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(309,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(310,71): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(310,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(431,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(435,65): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(436,65): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(440,65): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Programming\ФИИТ\TRAIN\TRAIN\Train.h(441,65): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Создание кода...
+  Train.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TRAIN.vcxproj -> D:\Programming\ФИИТ\TRAIN\Release\TRAIN.exe
